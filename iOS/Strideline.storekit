@@ -1,0 +1,40 @@
+{
+  "identifier" : "strideline",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "strideline_group",
+      "localizations" : [],
+      "name" : "Strideline Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "strideline_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Strideline Pro unlocks unlimited sessions and pro features.",
+              "displayName" : "Strideline Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "strideline_pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Strideline Pro",
+          "subscriptionGroupID" : "strideline_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
